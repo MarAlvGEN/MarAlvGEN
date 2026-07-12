@@ -1,14 +1,11 @@
 # Mauricio Alvarez
 
-**Fullstack Developer | Backend Focus**  
-Currently focused on refining software architecture, optimizing databases, and developing interactive training environments based on JavaScript and Java.
-
----
+**Fullstack Developer | Main backend**  
 
 ## Technologies & Tools
 
 ### Backend & Core
-* **Languages:** Java, JavaScript, TypeScript
+* **Languages:** Java, JavaScript
 * **Frameworks:** Spring Boot
 
 ### Frontend Integration
