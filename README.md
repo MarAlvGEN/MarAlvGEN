@@ -1,4 +1,4 @@
-# Mauricio Alvarez
+# Mauricio
 
 **Fullstack Developer | Main backend**  
 
